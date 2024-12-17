@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734409517 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\analisis kompleksitas algoritma\tubes\tes coding\tubesaka\lego.cpp
+	<iostream>
+	"lego.h"
+
+1734409591 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\analisis kompleksitas algoritma\tubes\tes coding\tubesaka\main.cpp
+	<algorithm>
+	<chrono>
+	<iostream>
+	<vector>
+	"lego.h"
+
+1734409674 c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\analisis kompleksitas algoritma\tubes\tes coding\tubesaka\lego.h
+
